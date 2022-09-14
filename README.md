@@ -45,7 +45,7 @@ In addition to the Er2014 [3] approach, the performance of the proposed method i
 
 ### Citation:
 
-Please cite the following paper if you find this work useful:
+Please cite the following paper if you find this work useful: 
 
 Tao Tian, Hanli Wang, Sam Kwong, and C.-C. Jay. Kuo, Perceptual Image Compression with Block-level Just Noticeable Difference Prediction, ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 6, no. 4, Article 126, Jan. 2021.
 
